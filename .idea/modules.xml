@@ -3,6 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Data Structures Laboratory.iml" filepath="$PROJECT_DIR$/Data Structures Laboratory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW01/HW01.iml" filepath="$PROJECT_DIR$/HW01/HW01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW02/HW02.iml" filepath="$PROJECT_DIR$/HW02/HW02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW03/HW03.iml" filepath="$PROJECT_DIR$/HW03/HW03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW04/HW04.iml" filepath="$PROJECT_DIR$/HW04/HW04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW05/HW05.iml" filepath="$PROJECT_DIR$/HW05/HW05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab01/Lab01.iml" filepath="$PROJECT_DIR$/Lab01/Lab01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab02/Lab02.iml" filepath="$PROJECT_DIR$/Lab02/Lab02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab03/Lab03.iml" filepath="$PROJECT_DIR$/Lab03/Lab03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab04/Lab04.iml" filepath="$PROJECT_DIR$/Lab04/Lab04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab05/Lab05.iml" filepath="$PROJECT_DIR$/Lab05/Lab05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab07/Lab07.iml" filepath="$PROJECT_DIR$/Lab07/Lab07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab09/Lab09.iml" filepath="$PROJECT_DIR$/Lab09/Lab09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab10/Lab10.iml" filepath="$PROJECT_DIR$/Lab10/Lab10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab11/Lab11.iml" filepath="$PROJECT_DIR$/Lab11/Lab11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab12/Lab12.iml" filepath="$PROJECT_DIR$/Lab12/Lab12.iml" />
     </modules>
   </component>
 </project>

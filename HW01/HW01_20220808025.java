@@ -164,14 +164,14 @@ class TrafficControl implements ITrafficControl {
             for (int j = 0; j < cityGrid[i].length; j++) {
                 a += cityGrid[i][j];  // Önce elemanı ekle
 
-                if (j < cityGrid[i].length - 1) {  // Son elemandan önce boşluk ekle
+                if (j < cityGrid[i].length - 1) {
                     a += " ";
                 }
             }
-            a += "\n";  // Her satırın sonuna yeni satır ekle
+            a += "\n";
         }
 
-        return a.trim();  // String'in sonunda kalan gereksiz boşlukları kaldır
+        return a.trim();
     }
 
 }
